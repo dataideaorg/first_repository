@@ -1,0 +1,1 @@
+This system uses pure sql and vba code to filter out households basing on the set criteria. It includes predictive models and summary statistics as well.
